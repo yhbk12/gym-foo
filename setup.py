@@ -1,5 +1,5 @@
 from setuptools import setup
 
-setup(name="gym_wikinav",
-      version="0.0.1",
+setup(name="gym_foo",
+      version="0.0.12",
       install_requires=["gym"])
