@@ -1,2 +1,2 @@
-from gym_soccer.envs.soccer_env import SoccerEnv
-from gym_soccer.envs.soccer_empty_goal import SoccerEmptyGoalEnv
+from gym_foo.envs.football_env import FootballEnv
+from gym_foo.envs.football_empty_goal import FootballEmptyGoalEnv
